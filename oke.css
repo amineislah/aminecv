@@ -1,0 +1,48 @@
+th
+{
+    padding: 20px;
+}
+.image
+{
+    position: absolute;
+    left: 900px;
+    top: 19px;
+}
+.info
+{
+    position: absolute;
+    left: 330px;
+    top: 40px;
+    font-style: italic;
+    font-size: 20px;
+}
+table
+{
+    background-color: #C6B0AB;
+    border-radius: 8px;
+    border: 4px solid #3388CC;
+   
+
+}
+body
+{
+    background-color: #CECDCD;
+}
+h2
+{
+
+    border: 4px solid #3388DD;
+    font-size: 28px;
+    color: #3388DD;
+    text-align: center;
+    
+}
+.ip
+{
+    font-size: 20px;
+    font-style: italic;
+}
+.sup
+{
+    font-size: 14px;
+}
